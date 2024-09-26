@@ -1,0 +1,6 @@
+providers:
+  - Laravel\Paddle\CashierServiceProvider
+  - Spark\SparkServiceProvider
+
+migrations:
+  - database/migrations
